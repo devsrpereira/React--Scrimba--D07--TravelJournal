@@ -6,7 +6,7 @@ export default function Cards(props){
         <div className="new_card">
             {/* {props.item.disponivel ===0 && <div className="soldout">SOLD OUT</div>} */}
             <div className="card_picture">
-                <img className= "card_img" src={`../images/${props.item.image}`} alt="Error na Imagem"/>
+                <img className= "card_img" src={`./images/${props.item.image}`} alt="Error na Imagem"/>
             </div>
             <div className="card_content">
                 <div className="card_firstline">
