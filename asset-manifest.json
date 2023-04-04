@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/React--Scrimba--D07--TravelJournal/static/js/main.c4e5ffae.js",
+    "main.js": "/React--Scrimba--D07--TravelJournal/static/js/main.9b4883a1.js",
     "index.html": "/React--Scrimba--D07--TravelJournal/index.html",
-    "main.c4e5ffae.js.map": "/React--Scrimba--D07--TravelJournal/static/js/main.c4e5ffae.js.map"
+    "main.9b4883a1.js.map": "/React--Scrimba--D07--TravelJournal/static/js/main.9b4883a1.js.map"
   },
   "entrypoints": [
-    "static/js/main.c4e5ffae.js"
+    "static/js/main.9b4883a1.js"
   ]
 }
